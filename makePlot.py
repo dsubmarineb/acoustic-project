@@ -1,3 +1,0 @@
-print("Making plot")
-
-return
